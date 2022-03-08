@@ -1,0 +1,86 @@
+.background_styling{
+    background-color: rgb(126, 214, 140);
+    height: 100vh;
+    color:rgba(15, 9, 0, 0.89);
+}
+
+.button{
+    background-color: black;
+    border-radius: 5px;
+    color: bisque;
+    padding: 10px;
+
+}
+.button2{
+    border-color: black;
+    border-radius: 5px;
+    color: bisque;
+    padding: 7px;
+    text-align: right;
+    border-style: solid;
+    border-width: 3px;
+
+}
+
+
+.user-input{
+    width:80%;
+    height:50px;
+    padding: 5px;
+    border-radius: 10px;
+    border-width: 3px;
+    border-color: antiquewhite;
+    border-style: dotted;
+}
+
+#checkbox1{
+    height:20px;
+    width:20px;
+}
+
+.tile_style{
+    background-color: rgb(9, 10, 0);
+    color: white;
+    border-radius: 10px;
+    width: 80%;
+    margin-right: auto;
+}
+
+
+
+.half_moon{
+    background-color: white;
+    width:10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height:30px;
+
+
+}
+
+.icon_styling{
+    margin-top:10px;
+    margin-right: 5px;
+}
+
+
+.todo-item-add{
+   
+    margin-top:0;
+    margin-left:10px;
+    border-radius: 15px;
+}
+
+.checked{
+    text-decoration: line-through;
+}
+
+.list_style{
+    list-style-type: none;
+}
+
+
+.iconsize{
+    font-size: 50px;
+}
+
